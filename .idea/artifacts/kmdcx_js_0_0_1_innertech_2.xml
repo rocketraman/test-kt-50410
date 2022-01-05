@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kmdcx-js-0.0.1.innertech-2">
+    <output-path>$PROJECT_DIR$/kmdc/kmdcx/build/libs</output-path>
+    <root id="archive" name="kmdcx-js-0.0.1.innertech-2.jar">
+      <element id="module-output" name="KMDC.kmdcx.jsMain" />
+    </root>
+  </artifact>
+</component>

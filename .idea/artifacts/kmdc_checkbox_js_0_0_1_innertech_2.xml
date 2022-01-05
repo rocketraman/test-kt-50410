@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kmdc-checkbox-js-0.0.1.innertech-2">
+    <output-path>$PROJECT_DIR$/kmdc/kmdc/kmdc-checkbox/build/libs</output-path>
+    <root id="archive" name="kmdc-checkbox-js-0.0.1.innertech-2.jar">
+      <element id="module-output" name="KMDC.kmdc.kmdc-checkbox.jsMain" />
+    </root>
+  </artifact>
+</component>

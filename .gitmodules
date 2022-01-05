@@ -1,0 +1,4 @@
+[submodule "kmdc"]
+	path = kmdc
+	url = git@github.com:innertech/kmdc.git
+	branch = kt-50410
